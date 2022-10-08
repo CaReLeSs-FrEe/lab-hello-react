@@ -1,3 +1,11 @@
+.color-container {
+  background-color: rgba(31,37,53,255);
+}
+
+.color-container h1 {
+  color: white;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
